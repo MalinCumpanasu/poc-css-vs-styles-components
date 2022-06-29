@@ -8,9 +8,13 @@ const Home: NextPage = () => {
   return (
     <>
       <div className="the-bookshelf">
-        <h1>
-          Cu <br /> si <br /> despre carti
-        </h1>
+        <div>
+          <h1>
+            Cu <br /> si <br /> despre carti
+          </h1>
+          <span style={{ fontSize: "20px", fontWeight: 800 }}>by Malin</span>
+        </div>
+
         <div className="bookshelf-wrap">
           <div className="bookshelf">
             <BookOne />

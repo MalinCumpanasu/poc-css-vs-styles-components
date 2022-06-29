@@ -18,3 +18,6 @@ https://styled-components.com/
 yarn add babel-plugin-styled-components styled-components
 yarn add --dev @types/styled-components
 ```
+
+## Conclusion
+https://devrecipes.net/styled-components-pros-and-cons/
