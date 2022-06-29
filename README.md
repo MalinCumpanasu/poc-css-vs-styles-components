@@ -6,6 +6,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 yarn add babel-plugin-styled-components styled-components
 
 yarn add --dev @types/styled-components
+
+yarn add sass
 ```
 ## Getting Started
 
