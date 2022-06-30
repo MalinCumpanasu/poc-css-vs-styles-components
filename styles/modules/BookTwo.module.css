@@ -1,7 +1,16 @@
-.booktwo {
+.book-two {
   color: #df66c3;
   width: 106px;
   height: 448px;
   margin-right: 23px;
   background-color: #153086;
+}
+
+
+.booktwo2 {
+  color: #df66c3;
+  width: 106px;
+  height: 448px;
+  margin-right: 23px;
+  background-color: red;
 }
